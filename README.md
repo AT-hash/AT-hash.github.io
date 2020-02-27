@@ -1,5 +1,5 @@
 # AT-hash.github.io
 # はじめまして、このサイトは石井温也のGithubページです。Edtech関連のWebサイトや、アプリを表示させています。
-menu.html
+https://at-hash.github.io/menu.html
 
-test/index.html
+https://at-hash.github.io/test/
