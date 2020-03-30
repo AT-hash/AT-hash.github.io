@@ -1,5 +1,5 @@
 # AT-hash.github.io
-# はじめまして、このサイトは石井温也のGithubページです。Edtech関連のWebサイトや、アプリを表示させています。
+# はじめまして、このサイトは学生団体「en-courage」のGithubページです。Edtech関連のWebサイトや、アプリを表示させています。
 https://at-hash.github.io/menu.html
 左のURLは小中高生向けの教育支援サイトです（制作中）　使用言語はHTML,CSSで、PHPも使用する予定です。環境はPhpStormです。
 
